@@ -1,6 +1,10 @@
-make build-step1
+NS-3-Leo project https://github.com/dadada/ns-3-leo/tree/main built with Docker 
 
-make build-step2 
+# Install
+
+- make build-step1
+- make build-step2
+
 
 # To run project
-make start
+- make start
